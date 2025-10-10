@@ -17,6 +17,8 @@ import room1 from "@/assets/room1.jpg";
 import room2 from "@/assets/room2.jpg";
 import room3 from "@/assets/room3.jpg";
 
+// Constant Functions 
+
 const Listings = () => {
   const [budget, setBudget] = useState([5000, 15000]);
   const [sortBy, setSortBy] = useState("nearest");
