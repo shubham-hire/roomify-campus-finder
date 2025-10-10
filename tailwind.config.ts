@@ -1,3 +1,4 @@
+// Using tailwind css for this
 import type { Config } from "tailwindcss";
 
 export default {
