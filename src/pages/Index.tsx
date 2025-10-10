@@ -15,7 +15,7 @@ const Index = () => {
       id: "1",
       image: room1,
       title: "Cozy Single Room Near Sandip University",
-      rent: 8500,
+      rent: 7500,
       distance: "0.5 km from campus",
       amenities: ["wifi", "ac", "food"],
     },
@@ -36,6 +36,8 @@ const Index = () => {
       amenities: ["wifi", "ac", "food"],
     },
   ];
+
+  //only for commiting purpose
 
   const whyChooseUs = [
     {
